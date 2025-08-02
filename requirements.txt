@@ -1,5 +1,6 @@
 python-telegram-bot==20.6
 pytube
-whisper
-googletrans==4.0.0-rc1
 ffmpeg-python
+googletrans==4.0.0-rc1
+git+https://github.com/openai/whisper.git
+torch
